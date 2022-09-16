@@ -24,5 +24,3 @@ const App = () => (
 );
 
 export default App;
-
-//50:14 https://www.youtube.com/watch?v=FHTbsZEJspU&t=166s
